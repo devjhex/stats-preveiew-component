@@ -28,7 +28,7 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
-![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Stats preview card component coding challenge](./design/Solution.png)
 
 ## My process
 
